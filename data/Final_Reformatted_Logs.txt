@@ -1,0 +1,2699 @@
+25-03-26 02:01:00,000 WARNING [security-module] Unauthorized access by user: Jason9217,
+Login blocked
+Email: jason9217@gmail.com
+Message: 2025-03-26 02:01:00 AM Traffic from 91.207.65.28 for app version 4.5.93.5976,
+Login endpoint accessed without credentials.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 02:23:00,000 WARNING [security-module] Unauthorized access by user: Dana5784,
+Login blocked
+Email: dana5784@yahoo.com
+Message: 2025-03-23 02:23:00 AM Traffic from 95.159.129.224 for app version 7.5.96.6242,
+Login endpoint accessed without credentials.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 09:44:00,000 WARNING [security-module] Unauthorized access by user: Adam4196,
+Login blocked
+Email: adam4196@gmail.com
+Message: 2025-03-23 09:44:00 AM Traffic from 178.31.205.8 for app version 2.3.53.9747,
+API key missing in the request. Request dropped.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-24 18:15:00,000 WARNING [security-module] Unauthorized access by user: Aaron8615,
+Login blocked
+Email: aaron8615@yahoo.com
+Message: 2025-03-24 06:15:00 PM Traffic from 212.125.226.35 for app version 4.4.67.6972,
+User attempted to bypass authentication.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 10:07:00,000 WARNING [security-module] Unauthorized access by user: Courtney8208,
+Login blocked
+Email: courtney8208@hotmail.com
+Message: 2025-03-25 10:07:00 AM Traffic from 139.214.133.0 for app version 2.2.82.2974,
+Suspicious payload detected in login request.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-20 02:22:00,000 WARNING [security-module] Unauthorized access by user: Kim7393,
+Login blocked
+Email: kim7393@yahoo.com
+Message: 2025-03-20 02:22:00 AM Traffic from 222.110.11.72 for app version 7.3.4.3667,
+The app server has completed the request.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 18:59:00,000 WARNING [security-module] Unauthorized access by user: Timothy7995,
+Login blocked
+Email: timothy7995@yahoo.com
+Message: 2025-03-23 06:59:00 PM Traffic from 45.101.70.235 for app version 7.0.35.8757,
+Authentication service returned status: ACCESS_DENIED.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 23:33:00,000 WARNING [security-module] Unauthorized access by user: Joseph1580,
+Login blocked
+Email: joseph1580@yahoo.com
+Message: 2025-03-20 11:33:00 PM Traffic from 199.223.232.58 for app version 3.9.72.4876,
+API key missing in the request. Request dropped.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 20:07:00,000 WARNING [security-module] Unauthorized access by user: Tracy3289,
+Login blocked
+Email: tracy3289@yahoo.com
+Message: 2025-03-24 08:07:00 PM Traffic from 131.34.103.175 for app version 9.4.97.8970,
+Login endpoint accessed without credentials.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 01:34:00,000 WARNING [security-module] Unauthorized access by user: Marcus3409,
+Login blocked
+Email: marcus3409@yahoo.com
+Message: 2025-03-23 01:34:00 AM Traffic from 200.68.249.233 for app version 10.3.32.3203,
+The app server has completed the request.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 00:39:00,000 WARNING [security-module] Unauthorized access by user: Whitney5524,
+Login blocked
+Email: whitney5524@hotmail.com
+Message: 2025-03-25 12:39:00 AM Traffic from 217.117.232.165 for app version 5.8.3.7242,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 21:52:00,000 WARNING [security-module] Unauthorized access by user: Cindy1630,
+Login blocked
+Email: cindy1630@yahoo.com
+Message: 2025-03-21 09:52:00 PM Traffic from 200.114.46.64 for app version 3.0.67.7544,
+Request flagged by intrusion detection system.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-20 07:08:00,000 WARNING [security-module] Unauthorized access by user: Michael8572,
+Login blocked
+Email: michael8572@yahoo.com
+Message: 2025-03-20 07:08:00 AM Traffic from 209.13.192.224 for app version 9.3.34.7177,
+The app server has completed the request.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-25 13:23:00,000 WARNING [security-module] Unauthorized access by user: Raymond3715,
+Login blocked
+Email: raymond3715@yahoo.com
+Message: 2025-03-25 01:23:00 PM Traffic from 208.188.59.83 for app version 4.1.70.9449,
+Invalid session token detected. Request denied.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 08:41:00,000 WARNING [security-module] Unauthorized access by user: Stephanie7551,
+Login blocked
+Email: stephanie7551@yahoo.com
+Message: 2025-03-26 08:41:00 AM Traffic from 205.195.122.200 for app version 6.4.30.1972,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-20 23:40:00,000 WARNING [security-module] Unauthorized access by user: Gabrielle4038,
+Login blocked
+Email: gabrielle4038@gmail.com
+Message: 2025-03-20 11:40:00 PM Traffic from 182.59.20.47 for app version 2.7.3.8832,
+Request flagged by intrusion detection system.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 23:20:00,000 WARNING [security-module] Unauthorized access by user: Cassie1609,
+Login blocked
+Email: cassie1609@gmail.com
+Message: 2025-03-21 11:20:00 PM Traffic from 220.244.231.255 for app version 9.2.21.8048,
+Login endpoint accessed without credentials.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 01:16:00,000 WARNING [security-module] Unauthorized access by user: David1838,
+Login blocked
+Email: david1838@gmail.com
+Message: 2025-03-26 01:16:00 AM Traffic from 131.68.61.210 for app version 1.3.4.7054,
+Rate limit exceeded for user token.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 05:03:00,000 WARNING [security-module] Unauthorized access by user: Shannon5571,
+Login blocked
+Email: shannon5571@hotmail.com
+Message: 2025-03-23 05:03:00 AM Traffic from 33.41.96.203 for app version 9.5.48.3141,
+Invalid session token detected. Request denied.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-26 02:34:00,000 WARNING [security-module] Unauthorized access by user: Carla2861,
+Login blocked
+Email: carla2861@hotmail.com
+Message: 2025-03-26 02:34:00 AM Traffic from 223.109.247.202 for app version 2.2.22.6537,
+User attempted to bypass authentication.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 20:35:00,000 WARNING [security-module] Unauthorized access by user: Joseph6767,
+Login blocked
+Email: joseph6767@hotmail.com
+Message: 2025-03-22 08:35:00 PM Traffic from 196.228.108.43 for app version 6.4.65.1178,
+Suspicious payload detected in login request.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 18:50:00,000 WARNING [security-module] Unauthorized access by user: Kelly2820,
+Login blocked
+Email: kelly2820@gmail.com
+Message: 2025-03-24 06:50:00 PM Traffic from 1.124.71.148 for app version 10.6.59.2213,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 16:03:00,000 WARNING [security-module] Unauthorized access by user: Tina7256,
+Login blocked
+Email: tina7256@yahoo.com
+Message: 2025-03-21 04:03:00 PM Traffic from 148.220.67.86 for app version 3.6.72.1556,
+Request flagged by intrusion detection system.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 05:12:00,000 WARNING [security-module] Unauthorized access by user: Edward3311,
+Login blocked
+Email: edward3311@yahoo.com
+Message: 2025-03-23 05:12:00 AM Traffic from 22.172.220.94 for app version 2.9.57.9946,
+Request flagged by intrusion detection system.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 09:00:00,000 WARNING [security-module] Unauthorized access by user: Mary1722,
+Login blocked
+Email: mary1722@gmail.com
+Message: 2025-03-26 09:00:00 AM Traffic from 178.139.174.124 for app version 4.7.95.9307,
+User attempted to bypass authentication.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 03:26:00,000 WARNING [security-module] Unauthorized access by user: Rebecca1558,
+Login blocked
+Email: rebecca1558@gmail.com
+Message: 2025-03-26 03:26:00 AM Traffic from 208.237.222.53 for app version 4.4.72.4375,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 04:04:00,000 WARNING [security-module] Unauthorized access by user: Brian5661,
+Login blocked
+Email: brian5661@gmail.com
+Message: 2025-03-24 04:04:00 AM Traffic from 159.131.13.5 for app version 7.2.5.4160,
+Authentication service returned status: ACCESS_DENIED.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 02:23:00,000 WARNING [security-module] Unauthorized access by user: Nicholas5823,
+Login blocked
+Email: nicholas5823@gmail.com
+Message: 2025-03-25 02:23:00 AM Traffic from 204.223.161.152 for app version 1.0.55.8148,
+Suspicious payload detected in login request.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 21:29:00,000 WARNING [security-module] Unauthorized access by user: Rebecca2691,
+Login blocked
+Email: rebecca2691@yahoo.com
+Message: 2025-03-21 09:29:00 PM Traffic from 137.81.166.200 for app version 6.6.30.5403,
+User attempted to bypass authentication.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 10:24:00,000 WARNING [security-module] Unauthorized access by user: Christine3542,
+Login blocked
+Email: christine3542@hotmail.com
+Message: 2025-03-26 10:24:00 AM Traffic from 197.102.214.222 for app version 2.5.28.1687,
+User attempted to bypass authentication.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 17:57:00,000 WARNING [security-module] Unauthorized access by user: Lauren4199,
+Login blocked
+Email: lauren4199@hotmail.com
+Message: 2025-03-23 05:57:00 PM Traffic from 36.222.213.159 for app version 9.3.73.1597,
+Multiple failed password attempts recorded.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-23 04:44:00,000 WARNING [security-module] Unauthorized access by user: Eric3632,
+Login blocked
+Email: eric3632@yahoo.com
+Message: 2025-03-23 04:44:00 AM Traffic from 46.16.71.250 for app version 3.7.30.1715,
+Invalid session token detected. Request denied.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 12:31:00,000 WARNING [security-module] Unauthorized access by user: Diana7926,
+Login blocked
+Email: diana7926@yahoo.com
+Message: 2025-03-24 12:31:00 PM Traffic from 219.39.53.103 for app version 1.2.79.5721,
+Rate limit exceeded for user token.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-26 10:56:00,000 WARNING [security-module] Unauthorized access by user: Stephanie4342,
+Login blocked
+Email: stephanie4342@hotmail.com
+Message: 2025-03-26 10:56:00 AM Traffic from 62.20.206.2 for app version 5.7.49.2849,
+Authentication service returned status: ACCESS_DENIED.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 23:14:00,000 WARNING [security-module] Unauthorized access by user: Angel2462,
+Login blocked
+Email: angel2462@gmail.com
+Message: 2025-03-23 11:14:00 PM Traffic from 194.21.44.211 for app version 8.5.29.1725,
+Invalid session token detected. Request denied.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 05:55:00,000 WARNING [security-module] Unauthorized access by user: Robert4127,
+Login blocked
+Email: robert4127@yahoo.com
+Message: 2025-03-25 05:55:00 AM Traffic from 205.243.221.140 for app version 5.4.95.2623,
+The app server has completed the request.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-26 20:36:00,000 WARNING [security-module] Unauthorized access by user: Daniel8129,
+Login blocked
+Email: daniel8129@gmail.com
+Message: 2025-03-26 08:36:00 PM Traffic from 147.157.136.17 for app version 4.7.27.9007,
+Suspicious payload detected in login request.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 14:42:00,000 WARNING [security-module] Unauthorized access by user: Deborah9506,
+Login blocked
+Email: deborah9506@yahoo.com
+Message: 2025-03-24 02:42:00 PM Traffic from 146.91.220.121 for app version 8.2.20.1071,
+Suspicious payload detected in login request.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 16:44:00,000 WARNING [security-module] Unauthorized access by user: Abigail6244,
+Login blocked
+Email: abigail6244@yahoo.com
+Message: 2025-03-24 04:44:00 PM Traffic from 128.30.105.103 for app version 3.1.73.6574,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 13:37:00,000 WARNING [security-module] Unauthorized access by user: Matthew7879,
+Login blocked
+Email: matthew7879@yahoo.com
+Message: 2025-03-25 01:37:00 PM Traffic from 145.134.171.33 for app version 1.2.33.5780,
+Suspicious payload detected in login request.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 22:59:00,000 WARNING [security-module] Unauthorized access by user: Brett1031,
+Login blocked
+Email: brett1031@yahoo.com
+Message: 2025-03-24 10:59:00 PM Traffic from 31.205.75.107 for app version 8.1.61.5770,
+Multiple failed password attempts recorded.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 04:08:00,000 WARNING [security-module] Unauthorized access by user: Wendy8861,
+Login blocked
+Email: wendy8861@yahoo.com
+Message: 2025-03-24 04:08:00 AM Traffic from 205.71.210.111 for app version 10.1.84.6049,
+Login endpoint accessed without credentials.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 00:03:00,000 WARNING [security-module] Unauthorized access by user: Brittany8249,
+Login blocked
+Email: brittany8249@hotmail.com
+Message: 2025-03-24 12:03:00 AM Traffic from 2.165.145.151 for app version 3.7.47.2054,
+Rate limit exceeded for user token.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 09:08:00,000 WARNING [security-module] Unauthorized access by user: Steve3219,
+Login blocked
+Email: steve3219@gmail.com
+Message: 2025-03-22 09:08:00 AM Traffic from 218.190.247.52 for app version 9.4.84.2328,
+API key missing in the request. Request dropped.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-26 08:33:00,000 WARNING [security-module] Unauthorized access by user: Ronald9812,
+Login blocked
+Email: ronald9812@gmail.com
+Message: 2025-03-26 08:33:00 AM Traffic from 31.137.111.86 for app version 8.8.62.5552,
+API key missing in the request. Request dropped.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 22:44:00,000 WARNING [security-module] Unauthorized access by user: Jennifer6766,
+Login blocked
+Email: jennifer6766@hotmail.com
+Message: 2025-03-24 10:44:00 PM Traffic from 204.182.127.52 for app version 5.6.7.1536,
+The app server has completed the request.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 01:01:00,000 WARNING [security-module] Unauthorized access by user: Tammy1764,
+Login blocked
+Email: tammy1764@hotmail.com
+Message: 2025-03-21 01:01:00 AM Traffic from 206.109.236.134 for app version 7.7.77.4438,
+Invalid session token detected. Request denied.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 23:28:00,000 WARNING [security-module] Unauthorized access by user: Anthony8768,
+Login blocked
+Email: anthony8768@hotmail.com
+Message: 2025-03-21 11:28:00 PM Traffic from 147.34.163.138 for app version 10.0.9.1310,
+Rate limit exceeded for user token.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 19:19:00,000 WARNING [security-module] Unauthorized access by user: Michelle4555,
+Login blocked
+Email: michelle4555@gmail.com
+Message: 2025-03-21 07:19:00 PM Traffic from 194.42.149.241 for app version 4.3.70.1293,
+The app server has completed the request.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 18:38:00,000 WARNING [security-module] Unauthorized access by user: Regina3483,
+Login blocked
+Email: regina3483@hotmail.com
+Message: 2025-03-23 06:38:00 PM Traffic from 21.212.83.148 for app version 2.0.85.1785,
+The app server has completed the request.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-24 13:40:00,000 WARNING [security-module] Unauthorized access by user: Matthew5327,
+Login blocked
+Email: matthew5327@yahoo.com
+Message: 2025-03-24 01:40:00 PM Traffic from 100.214.117.203 for app version 1.7.34.2645,
+Suspicious payload detected in login request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 05:07:00,000 WARNING [security-module] Unauthorized access by user: Courtney6216,
+Login blocked
+Email: courtney6216@hotmail.com
+Message: 2025-03-24 05:07:00 AM Traffic from 193.190.199.195 for app version 9.3.69.4463,
+Suspicious payload detected in login request.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 23:00:00,000 WARNING [security-module] Unauthorized access by user: Sandra5062,
+Login blocked
+Email: sandra5062@hotmail.com
+Message: 2025-03-25 11:00:00 PM Traffic from 154.166.0.212 for app version 3.2.46.2103,
+Invalid session token detected. Request denied.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 19:37:00,000 WARNING [security-module] Unauthorized access by user: Ashlee9331,
+Login blocked
+Email: ashlee9331@hotmail.com
+Message: 2025-03-24 07:37:00 PM Traffic from 158.151.100.183 for app version 5.8.20.2816,
+Request flagged by intrusion detection system.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-22 02:54:00,000 WARNING [security-module] Unauthorized access by user: James1806,
+Login blocked
+Email: james1806@yahoo.com
+Message: 2025-03-22 02:54:00 AM Traffic from 17.93.93.124 for app version 7.8.4.5455,
+Authentication service returned status: ACCESS_DENIED.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 16:26:00,000 WARNING [security-module] Unauthorized access by user: Tyler1277,
+Login blocked
+Email: tyler1277@gmail.com
+Message: 2025-03-22 04:26:00 PM Traffic from 77.142.184.239 for app version 1.0.3.4824,
+Request flagged by intrusion detection system.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 00:57:00,000 WARNING [security-module] Unauthorized access by user: Erin5665,
+Login blocked
+Email: erin5665@gmail.com
+Message: 2025-03-21 12:57:00 AM Traffic from 221.179.107.5 for app version 5.7.8.2747,
+User attempted to bypass authentication.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 02:03:00,000 WARNING [security-module] Unauthorized access by user: Jacob2813,
+Login blocked
+Email: jacob2813@gmail.com
+Message: 2025-03-23 02:03:00 AM Traffic from 100.158.124.98 for app version 3.8.16.7067,
+Request flagged by intrusion detection system.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-20 14:45:00,000 WARNING [security-module] Unauthorized access by user: Robert2026,
+Login blocked
+Email: robert2026@yahoo.com
+Message: 2025-03-20 02:45:00 PM Traffic from 195.212.12.131 for app version 7.4.47.5584,
+The app server has completed the request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 19:37:00,000 WARNING [security-module] Unauthorized access by user: Brian4612,
+Login blocked
+Email: brian4612@gmail.com
+Message: 2025-03-23 07:37:00 PM Traffic from 38.169.173.203 for app version 4.1.55.6688,
+Suspicious payload detected in login request.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 20:11:00,000 WARNING [security-module] Unauthorized access by user: Tara3883,
+Login blocked
+Email: tara3883@hotmail.com
+Message: 2025-03-21 08:11:00 PM Traffic from 32.154.174.234 for app version 10.3.71.2454,
+Rate limit exceeded for user token.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 07:29:00,000 WARNING [security-module] Unauthorized access by user: Sherri1958,
+Login blocked
+Email: sherri1958@gmail.com
+Message: 2025-03-24 07:29:00 AM Traffic from 169.228.173.97 for app version 6.3.60.4306,
+Multiple failed password attempts recorded.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 00:53:00,000 WARNING [security-module] Unauthorized access by user: Kyle4221,
+Login blocked
+Email: kyle4221@hotmail.com
+Message: 2025-03-25 12:53:00 AM Traffic from 163.144.207.215 for app version 6.9.41.6593,
+Authentication service returned status: ACCESS_DENIED.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 19:48:00,000 WARNING [security-module] Unauthorized access by user: Marc2748,
+Login blocked
+Email: marc2748@gmail.com
+Message: 2025-03-24 07:48:00 PM Traffic from 200.170.40.147 for app version 6.6.55.7126,
+Login endpoint accessed without credentials.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 06:27:00,000 WARNING [security-module] Unauthorized access by user: Mark7353,
+Login blocked
+Email: mark7353@hotmail.com
+Message: 2025-03-24 06:27:00 AM Traffic from 89.50.202.2 for app version 9.4.91.4102,
+Login endpoint accessed without credentials.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 08:40:00,000 WARNING [security-module] Unauthorized access by user: Thomas4001,
+Login blocked
+Email: thomas4001@gmail.com
+Message: 2025-03-22 08:40:00 AM Traffic from 208.157.43.45 for app version 4.0.44.7188,
+Invalid session token detected. Request denied.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 05:48:00,000 WARNING [security-module] Unauthorized access by user: Juan1760,
+Login blocked
+Email: juan1760@gmail.com
+Message: 2025-03-26 05:48:00 AM Traffic from 141.134.85.71 for app version 6.2.22.6860,
+Multiple failed password attempts recorded.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 09:57:00,000 WARNING [security-module] Unauthorized access by user: Rhonda5737,
+Login blocked
+Email: rhonda5737@yahoo.com
+Message: 2025-03-23 09:57:00 AM Traffic from 33.66.178.58 for app version 6.6.95.3800,
+Multiple failed password attempts recorded.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 06:42:00,000 WARNING [security-module] Unauthorized access by user: Barbara3286,
+Login blocked
+Email: barbara3286@yahoo.com
+Message: 2025-03-25 06:42:00 AM Traffic from 182.160.0.4 for app version 7.8.81.6773,
+Request flagged by intrusion detection system.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 15:34:00,000 WARNING [security-module] Unauthorized access by user: Joshua6855,
+Login blocked
+Email: joshua6855@hotmail.com
+Message: 2025-03-21 03:34:00 PM Traffic from 63.119.140.235 for app version 6.3.16.5743,
+Request flagged by intrusion detection system.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 01:38:00,000 WARNING [security-module] Unauthorized access by user: Ronald8174,
+Login blocked
+Email: ronald8174@hotmail.com
+Message: 2025-03-21 01:38:00 AM Traffic from 39.93.240.11 for app version 9.9.30.1270,
+Multiple failed password attempts recorded.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-22 16:49:00,000 WARNING [security-module] Unauthorized access by user: Brittany2245,
+Login blocked
+Email: brittany2245@yahoo.com
+Message: 2025-03-22 04:49:00 PM Traffic from 156.165.47.145 for app version 4.3.83.4242,
+Request flagged by intrusion detection system.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 09:07:00,000 WARNING [security-module] Unauthorized access by user: William5584,
+Login blocked
+Email: william5584@yahoo.com
+Message: 2025-03-23 09:07:00 AM Traffic from 78.157.197.8 for app version 1.5.80.1972,
+Request flagged by intrusion detection system.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-20 21:23:00,000 WARNING [security-module] Unauthorized access by user: Marissa8103,
+Login blocked
+Email: marissa8103@yahoo.com
+Message: 2025-03-20 09:23:00 PM Traffic from 204.67.218.96 for app version 9.2.85.8465,
+Multiple failed password attempts recorded.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 13:48:00,000 WARNING [security-module] Unauthorized access by user: Stacey1220,
+Login blocked
+Email: stacey1220@yahoo.com
+Message: 2025-03-23 01:48:00 PM Traffic from 214.10.170.183 for app version 6.0.11.8626,
+Multiple failed password attempts recorded.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-22 19:35:00,000 WARNING [security-module] Unauthorized access by user: Leslie9624,
+Login blocked
+Email: leslie9624@hotmail.com
+Message: 2025-03-22 07:35:00 PM Traffic from 210.212.228.237 for app version 1.1.49.2630,
+User attempted to bypass authentication.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-26 13:01:00,000 WARNING [security-module] Unauthorized access by user: Jeffery5978,
+Login blocked
+Email: jeffery5978@yahoo.com
+Message: 2025-03-26 01:01:00 PM Traffic from 203.228.61.14 for app version 10.6.1.9704,
+The app server has completed the request.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 21:22:00,000 WARNING [security-module] Unauthorized access by user: Joshua3907,
+Login blocked
+Email: joshua3907@gmail.com
+Message: 2025-03-21 09:22:00 PM Traffic from 119.86.19.42 for app version 8.2.58.4130,
+The app server has completed the request.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 19:01:00,000 WARNING [security-module] Unauthorized access by user: Jeffery8711,
+Login blocked
+Email: jeffery8711@hotmail.com
+Message: 2025-03-25 07:01:00 PM Traffic from 21.208.70.69 for app version 8.6.35.8438,
+Request flagged by intrusion detection system.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 04:33:00,000 WARNING [security-module] Unauthorized access by user: Heather2628,
+Login blocked
+Email: heather2628@yahoo.com
+Message: 2025-03-26 04:33:00 AM Traffic from 216.77.167.41 for app version 3.9.87.1665,
+Multiple failed password attempts recorded.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 01:00:00,000 WARNING [security-module] Unauthorized access by user: Jennifer7954,
+Login blocked
+Email: jennifer7954@yahoo.com
+Message: 2025-03-23 01:00:00 AM Traffic from 174.136.96.88 for app version 4.0.5.6363,
+User attempted to bypass authentication.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 21:32:00,000 WARNING [security-module] Unauthorized access by user: Shelly1378,
+Login blocked
+Email: shelly1378@hotmail.com
+Message: 2025-03-26 09:32:00 PM Traffic from 2.215.166.29 for app version 9.3.73.6484,
+Login endpoint accessed without credentials.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-23 08:22:00,000 WARNING [security-module] Unauthorized access by user: Kyle9741,
+Login blocked
+Email: kyle9741@gmail.com
+Message: 2025-03-23 08:22:00 AM Traffic from 31.249.182.21 for app version 9.2.56.2734,
+Rate limit exceeded for user token.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 17:10:00,000 WARNING [security-module] Unauthorized access by user: Nicole7055,
+Login blocked
+Email: nicole7055@yahoo.com
+Message: 2025-03-20 05:10:00 PM Traffic from 211.144.83.185 for app version 7.2.99.7736,
+Suspicious payload detected in login request.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 00:09:00,000 WARNING [security-module] Unauthorized access by user: Katherine7916,
+Login blocked
+Email: katherine7916@hotmail.com
+Message: 2025-03-23 12:09:00 AM Traffic from 212.52.162.71 for app version 6.5.99.7539,
+Request flagged by intrusion detection system.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 23:19:00,000 WARNING [security-module] Unauthorized access by user: Shawn1115,
+Login blocked
+Email: shawn1115@yahoo.com
+Message: 2025-03-22 11:19:00 PM Traffic from 219.153.129.131 for app version 4.7.47.4519,
+Invalid session token detected. Request denied.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 06:28:00,000 WARNING [security-module] Unauthorized access by user: Roger7856,
+Login blocked
+Email: roger7856@gmail.com
+Message: 2025-03-24 06:28:00 AM Traffic from 114.11.147.35 for app version 4.9.55.5068,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 04:37:00,000 WARNING [security-module] Unauthorized access by user: Robin4392,
+Login blocked
+Email: robin4392@hotmail.com
+Message: 2025-03-20 04:37:00 AM Traffic from 55.149.123.79 for app version 5.1.28.5944,
+Invalid session token detected. Request denied.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 16:18:00,000 WARNING [security-module] Unauthorized access by user: Jennifer8119,
+Login blocked
+Email: jennifer8119@hotmail.com
+Message: 2025-03-22 04:18:00 PM Traffic from 22.136.184.42 for app version 6.4.21.4938,
+Suspicious payload detected in login request.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 11:53:00,000 WARNING [security-module] Unauthorized access by user: Sara8960,
+Login blocked
+Email: sara8960@gmail.com
+Message: 2025-03-21 11:53:00 AM Traffic from 209.152.139.243 for app version 10.1.1.6040,
+Multiple failed password attempts recorded.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 05:57:00,000 WARNING [security-module] Unauthorized access by user: Kimberly9435,
+Login blocked
+Email: kimberly9435@hotmail.com
+Message: 2025-03-22 05:57:00 AM Traffic from 193.21.131.226 for app version 9.2.81.6583,
+Rate limit exceeded for user token.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-23 16:23:00,000 WARNING [security-module] Unauthorized access by user: Amber7609,
+Login blocked
+Email: amber7609@gmail.com
+Message: 2025-03-23 04:23:00 PM Traffic from 160.116.175.125 for app version 5.5.58.8893,
+User attempted to bypass authentication.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 03:57:00,000 WARNING [security-module] Unauthorized access by user: Mark4429,
+Login blocked
+Email: mark4429@yahoo.com
+Message: 2025-03-25 03:57:00 AM Traffic from 57.193.148.128 for app version 5.6.84.8165,
+Multiple failed password attempts recorded.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 14:12:00,000 WARNING [security-module] Unauthorized access by user: Shirley6619,
+Login blocked
+Email: shirley6619@yahoo.com
+Message: 2025-03-25 02:12:00 PM Traffic from 205.205.84.7 for app version 1.5.64.6978,
+Multiple failed password attempts recorded.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-26 02:03:00,000 WARNING [security-module] Unauthorized access by user: Elizabeth5641,
+Login blocked
+Email: elizabeth5641@yahoo.com
+Message: 2025-03-26 02:03:00 AM Traffic from 45.46.232.220 for app version 5.9.56.6592,
+Multiple failed password attempts recorded.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 02:03:00,000 WARNING [security-module] Unauthorized access by user: Sean7756,
+Login blocked
+Email: sean7756@hotmail.com
+Message: 2025-03-25 02:03:00 AM Traffic from 174.7.86.3 for app version 9.0.51.9874,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 00:46:00,000 WARNING [security-module] Unauthorized access by user: Jade1376,
+Login blocked
+Email: jade1376@yahoo.com
+Message: 2025-03-24 12:46:00 AM Traffic from 176.125.72.168 for app version 10.7.65.7974,
+Login endpoint accessed without credentials.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 16:06:00,000 WARNING [security-module] Unauthorized access by user: Brittney5999,
+Login blocked
+Email: brittney5999@yahoo.com
+Message: 2025-03-20 04:06:00 PM Traffic from 67.128.68.68 for app version 9.8.25.9819,
+Login endpoint accessed without credentials.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 18:02:00,000 WARNING [security-module] Unauthorized access by user: Zoe7633,
+Login blocked
+Email: zoe7633@yahoo.com
+Message: 2025-03-25 06:02:00 PM Traffic from 210.0.36.148 for app version 2.8.7.5298,
+Request flagged by intrusion detection system.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 03:18:00,000 WARNING [security-module] Unauthorized access by user: Lorraine3447,
+Login blocked
+Email: lorraine3447@gmail.com
+Message: 2025-03-25 03:18:00 AM Traffic from 206.128.205.171 for app version 9.9.3.7660,
+Rate limit exceeded for user token.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 01:23:00,000 WARNING [security-module] Unauthorized access by user: Matthew4654,
+Login blocked
+Email: matthew4654@hotmail.com
+Message: 2025-03-26 01:23:00 AM Traffic from 159.50.150.7 for app version 5.2.32.4295,
+Multiple failed password attempts recorded.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 18:35:00,000 WARNING [security-module] Unauthorized access by user: Jessica5436,
+Login blocked
+Email: jessica5436@yahoo.com
+Message: 2025-03-22 06:35:00 PM Traffic from 160.106.58.80 for app version 6.3.74.6340,
+API key missing in the request. Request dropped.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 04:53:00,000 WARNING [security-module] Unauthorized access by user: John4367,
+Login blocked
+Email: john4367@yahoo.com
+Message: 2025-03-22 04:53:00 AM Traffic from 140.44.251.122 for app version 10.9.27.7246,
+API key missing in the request. Request dropped.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 10:19:00,000 WARNING [security-module] Unauthorized access by user: Randall2303,
+Login blocked
+Email: randall2303@gmail.com
+Message: 2025-03-23 10:19:00 AM Traffic from 170.218.174.160 for app version 2.4.28.1475,
+The app server has completed the request.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 02:56:00,000 WARNING [security-module] Unauthorized access by user: Megan5755,
+Login blocked
+Email: megan5755@gmail.com
+Message: 2025-03-25 02:56:00 AM Traffic from 198.115.115.92 for app version 5.7.49.5512,
+Login endpoint accessed without credentials.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 05:29:00,000 WARNING [security-module] Unauthorized access by user: Lori9701,
+Login blocked
+Email: lori9701@yahoo.com
+Message: 2025-03-24 05:29:00 AM Traffic from 75.96.31.245 for app version 10.1.81.6316,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-26 02:07:00,000 WARNING [security-module] Unauthorized access by user: Kara3385,
+Login blocked
+Email: kara3385@hotmail.com
+Message: 2025-03-26 02:07:00 AM Traffic from 26.129.230.38 for app version 10.7.79.7302,
+Suspicious payload detected in login request.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 01:48:00,000 WARNING [security-module] Unauthorized access by user: Kenneth3447,
+Login blocked
+Email: kenneth3447@yahoo.com
+Message: 2025-03-26 01:48:00 AM Traffic from 202.39.238.236 for app version 3.1.20.2531,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 12:01:00,000 WARNING [security-module] Unauthorized access by user: William9282,
+Login blocked
+Email: william9282@gmail.com
+Message: 2025-03-22 12:01:00 PM Traffic from 151.105.183.161 for app version 6.6.72.6710,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 17:24:00,000 WARNING [security-module] Unauthorized access by user: Barbara8700,
+Login blocked
+Email: barbara8700@hotmail.com
+Message: 2025-03-25 05:24:00 PM Traffic from 147.166.214.219 for app version 1.3.70.7728,
+The app server has completed the request.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 20:07:00,000 WARNING [security-module] Unauthorized access by user: Martin4998,
+Login blocked
+Email: martin4998@yahoo.com
+Message: 2025-03-24 08:07:00 PM Traffic from 171.240.219.92 for app version 2.1.44.7800,
+Suspicious payload detected in login request.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 10:33:00,000 WARNING [security-module] Unauthorized access by user: Daniel9082,
+Login blocked
+Email: daniel9082@gmail.com
+Message: 2025-03-22 10:33:00 AM Traffic from 139.62.236.217 for app version 8.2.81.5699,
+Suspicious payload detected in login request.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 03:28:00,000 WARNING [security-module] Unauthorized access by user: Gail2604,
+Login blocked
+Email: gail2604@hotmail.com
+Message: 2025-03-24 03:28:00 AM Traffic from 109.241.178.255 for app version 1.5.98.6691,
+Multiple failed password attempts recorded.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-23 02:47:00,000 WARNING [security-module] Unauthorized access by user: Debra1838,
+Login blocked
+Email: debra1838@hotmail.com
+Message: 2025-03-23 02:47:00 AM Traffic from 189.31.197.123 for app version 2.7.24.9090,
+Rate limit exceeded for user token.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-21 17:35:00,000 WARNING [security-module] Unauthorized access by user: Jason3622,
+Login blocked
+Email: jason3622@hotmail.com
+Message: 2025-03-21 05:35:00 PM Traffic from 161.131.148.126 for app version 10.1.87.4947,
+Suspicious payload detected in login request.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 20:10:00,000 WARNING [security-module] Unauthorized access by user: Jillian8540,
+Login blocked
+Email: jillian8540@hotmail.com
+Message: 2025-03-21 08:10:00 PM Traffic from 134.189.254.91 for app version 1.1.67.6772,
+Request flagged by intrusion detection system.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 13:53:00,000 WARNING [security-module] Unauthorized access by user: Marisa2844,
+Login blocked
+Email: marisa2844@gmail.com
+Message: 2025-03-22 01:53:00 PM Traffic from 2.239.154.52 for app version 7.7.93.9410,
+Invalid session token detected. Request denied.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 17:57:00,000 WARNING [security-module] Unauthorized access by user: Sarah8662,
+Login blocked
+Email: sarah8662@yahoo.com
+Message: 2025-03-26 05:57:00 PM Traffic from 199.48.161.201 for app version 5.0.44.9822,
+Multiple failed password attempts recorded.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-26 09:08:00,000 WARNING [security-module] Unauthorized access by user: Christopher5898,
+Login blocked
+Email: christopher5898@yahoo.com
+Message: 2025-03-26 09:08:00 AM Traffic from 209.232.217.224 for app version 2.9.48.1681,
+Authentication service returned status: ACCESS_DENIED.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 01:45:00,000 WARNING [security-module] Unauthorized access by user: Kyle6572,
+Login blocked
+Email: kyle6572@hotmail.com
+Message: 2025-03-22 01:45:00 AM Traffic from 199.242.58.134 for app version 8.3.49.6533,
+Suspicious payload detected in login request.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 20:30:00,000 WARNING [security-module] Unauthorized access by user: Nathan8312,
+Login blocked
+Email: nathan8312@yahoo.com
+Message: 2025-03-23 08:30:00 PM Traffic from 46.127.31.11 for app version 4.7.54.6182,
+User attempted to bypass authentication.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 04:02:00,000 WARNING [security-module] Unauthorized access by user: Tina3615,
+Login blocked
+Email: tina3615@gmail.com
+Message: 2025-03-22 04:02:00 AM Traffic from 183.255.227.220 for app version 8.0.25.1698,
+Multiple failed password attempts recorded.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 04:31:00,000 WARNING [security-module] Unauthorized access by user: Tamara3677,
+Login blocked
+Email: tamara3677@gmail.com
+Message: 2025-03-21 04:31:00 AM Traffic from 211.130.225.18 for app version 9.3.88.2836,
+Invalid session token detected. Request denied.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 00:17:00,000 WARNING [security-module] Unauthorized access by user: Paul1351,
+Login blocked
+Email: paul1351@yahoo.com
+Message: 2025-03-26 12:17:00 AM Traffic from 152.143.241.110 for app version 3.6.21.2951,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 13:33:00,000 WARNING [security-module] Unauthorized access by user: Stephen8488,
+Login blocked
+Email: stephen8488@yahoo.com
+Message: 2025-03-22 01:33:00 PM Traffic from 87.234.30.27 for app version 1.1.15.4262,
+Suspicious payload detected in login request.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-26 09:27:00,000 WARNING [security-module] Unauthorized access by user: Steven2398,
+Login blocked
+Email: steven2398@hotmail.com
+Message: 2025-03-26 09:27:00 AM Traffic from 149.19.184.249 for app version 10.1.2.3948,
+Rate limit exceeded for user token.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 23:17:00,000 WARNING [security-module] Unauthorized access by user: Jordan3394,
+Login blocked
+Email: jordan3394@gmail.com
+Message: 2025-03-25 11:17:00 PM Traffic from 202.18.128.134 for app version 5.4.74.4651,
+Request flagged by intrusion detection system.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 15:16:00,000 WARNING [security-module] Unauthorized access by user: Susan3722,
+Login blocked
+Email: susan3722@hotmail.com
+Message: 2025-03-25 03:16:00 PM Traffic from 133.48.159.49 for app version 6.3.31.3077,
+Authentication service returned status: ACCESS_DENIED.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 07:33:00,000 WARNING [security-module] Unauthorized access by user: Stephen1990,
+Login blocked
+Email: stephen1990@hotmail.com
+Message: 2025-03-24 07:33:00 AM Traffic from 181.196.61.30 for app version 10.2.78.1314,
+Rate limit exceeded for user token.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 20:59:00,000 WARNING [security-module] Unauthorized access by user: Kevin1555,
+Login blocked
+Email: kevin1555@gmail.com
+Message: 2025-03-24 08:59:00 PM Traffic from 87.59.170.12 for app version 3.3.40.2254,
+Login endpoint accessed without credentials.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 02:52:00,000 WARNING [security-module] Unauthorized access by user: Amanda7203,
+Login blocked
+Email: amanda7203@gmail.com
+Message: 2025-03-25 02:52:00 AM Traffic from 163.179.63.69 for app version 7.7.27.5495,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 14:16:00,000 WARNING [security-module] Unauthorized access by user: Kyle8000,
+Login blocked
+Email: kyle8000@hotmail.com
+Message: 2025-03-25 02:16:00 PM Traffic from 194.56.2.83 for app version 6.9.3.1526,
+Invalid session token detected. Request denied.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 08:30:00,000 WARNING [security-module] Unauthorized access by user: Emily8203,
+Login blocked
+Email: emily8203@yahoo.com
+Message: 2025-03-25 08:30:00 AM Traffic from 133.100.70.111 for app version 4.7.65.1122,
+Rate limit exceeded for user token.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-22 14:22:00,000 WARNING [security-module] Unauthorized access by user: Connie6181,
+Login blocked
+Email: connie6181@gmail.com
+Message: 2025-03-22 02:22:00 PM Traffic from 199.67.209.105 for app version 9.4.97.1542,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 08:47:00,000 WARNING [security-module] Unauthorized access by user: Jeremy4991,
+Login blocked
+Email: jeremy4991@hotmail.com
+Message: 2025-03-22 08:47:00 AM Traffic from 40.41.48.150 for app version 4.5.3.2725,
+The app server has completed the request.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-24 00:45:00,000 WARNING [security-module] Unauthorized access by user: Brianna2739,
+Login blocked
+Email: brianna2739@hotmail.com
+Message: 2025-03-24 12:45:00 AM Traffic from 168.88.69.207 for app version 9.6.35.4269,
+API key missing in the request. Request dropped.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-25 05:13:00,000 WARNING [security-module] Unauthorized access by user: Ethan4586,
+Login blocked
+Email: ethan4586@yahoo.com
+Message: 2025-03-25 05:13:00 AM Traffic from 9.252.200.57 for app version 10.1.99.9220,
+Suspicious payload detected in login request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 09:58:00,000 WARNING [security-module] Unauthorized access by user: Caitlin6590,
+Login blocked
+Email: caitlin6590@yahoo.com
+Message: 2025-03-21 09:58:00 AM Traffic from 197.110.36.212 for app version 10.2.10.5251,
+User attempted to bypass authentication.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 12:23:00,000 WARNING [security-module] Unauthorized access by user: David2778,
+Login blocked
+Email: david2778@gmail.com
+Message: 2025-03-21 12:23:00 PM Traffic from 81.230.78.171 for app version 4.3.40.5141,
+The app server has completed the request.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 04:35:00,000 WARNING [security-module] Unauthorized access by user: Zachary9179,
+Login blocked
+Email: zachary9179@yahoo.com
+Message: 2025-03-26 04:35:00 AM Traffic from 149.246.195.34 for app version 5.2.11.2824,
+Login endpoint accessed without credentials.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 19:50:00,000 WARNING [security-module] Unauthorized access by user: Jamie4639,
+Login blocked
+Email: jamie4639@yahoo.com
+Message: 2025-03-22 07:50:00 PM Traffic from 162.157.18.46 for app version 3.7.26.9142,
+Authentication service returned status: ACCESS_DENIED.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 03:00:00,000 WARNING [security-module] Unauthorized access by user: William7951,
+Login blocked
+Email: william7951@yahoo.com
+Message: 2025-03-24 03:00:00 AM Traffic from 141.242.124.27 for app version 9.2.1.7715,
+Authentication service returned status: ACCESS_DENIED.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 17:45:00,000 WARNING [security-module] Unauthorized access by user: Michael3151,
+Login blocked
+Email: michael3151@yahoo.com
+Message: 2025-03-26 05:45:00 PM Traffic from 189.214.247.49 for app version 7.5.93.9693,
+Suspicious payload detected in login request.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 07:46:00,000 WARNING [security-module] Unauthorized access by user: Nicholas6875,
+Login blocked
+Email: nicholas6875@yahoo.com
+Message: 2025-03-22 07:46:00 AM Traffic from 209.161.30.202 for app version 4.9.64.1817,
+User attempted to bypass authentication.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 06:43:00,000 WARNING [security-module] Unauthorized access by user: Jonathan1688,
+Login blocked
+Email: jonathan1688@hotmail.com
+Message: 2025-03-25 06:43:00 AM Traffic from 223.105.86.67 for app version 9.5.26.6165,
+API key missing in the request. Request dropped.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 13:59:00,000 WARNING [security-module] Unauthorized access by user: Barbara2198,
+Login blocked
+Email: barbara2198@gmail.com
+Message: 2025-03-25 01:59:00 PM Traffic from 181.146.190.208 for app version 9.9.99.7593,
+Rate limit exceeded for user token.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 00:43:00,000 WARNING [security-module] Unauthorized access by user: Anthony4690,
+Login blocked
+Email: anthony4690@hotmail.com
+Message: 2025-03-22 12:43:00 AM Traffic from 170.70.128.221 for app version 1.7.15.4374,
+Multiple failed password attempts recorded.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-23 11:12:00,000 WARNING [security-module] Unauthorized access by user: Lisa5756,
+Login blocked
+Email: lisa5756@yahoo.com
+Message: 2025-03-23 11:12:00 AM Traffic from 175.50.107.158 for app version 1.9.45.5426,
+Invalid session token detected. Request denied.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-20 06:50:00,000 WARNING [security-module] Unauthorized access by user: Melanie8672,
+Login blocked
+Email: melanie8672@gmail.com
+Message: 2025-03-20 06:50:00 AM Traffic from 149.42.118.38 for app version 1.2.11.1896,
+Rate limit exceeded for user token.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 20:12:00,000 WARNING [security-module] Unauthorized access by user: Karen2024,
+Login blocked
+Email: karen2024@hotmail.com
+Message: 2025-03-20 08:12:00 PM Traffic from 92.96.227.217 for app version 2.3.76.1565,
+Request flagged by intrusion detection system.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 22:08:00,000 WARNING [security-module] Unauthorized access by user: Madeline8593,
+Login blocked
+Email: madeline8593@yahoo.com
+Message: 2025-03-26 10:08:00 PM Traffic from 162.94.28.222 for app version 1.8.87.8986,
+User attempted to bypass authentication.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-20 07:05:00,000 WARNING [security-module] Unauthorized access by user: Lisa4909,
+Login blocked
+Email: lisa4909@gmail.com
+Message: 2025-03-20 07:05:00 AM Traffic from 195.207.124.99 for app version 6.5.42.3796,
+User attempted to bypass authentication.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-20 14:24:00,000 WARNING [security-module] Unauthorized access by user: Christine1478,
+Login blocked
+Email: christine1478@gmail.com
+Message: 2025-03-20 02:24:00 PM Traffic from 23.242.35.144 for app version 5.9.70.4498,
+Rate limit exceeded for user token.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-20 03:17:00,000 WARNING [security-module] Unauthorized access by user: Denise7585,
+Login blocked
+Email: denise7585@yahoo.com
+Message: 2025-03-20 03:17:00 AM Traffic from 218.187.111.214 for app version 5.3.3.1653,
+Authentication service returned status: ACCESS_DENIED.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 03:36:00,000 WARNING [security-module] Unauthorized access by user: Kayla3441,
+Login blocked
+Email: kayla3441@yahoo.com
+Message: 2025-03-25 03:36:00 AM Traffic from 137.108.39.146 for app version 4.9.94.6379,
+Rate limit exceeded for user token.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-25 17:02:00,000 WARNING [security-module] Unauthorized access by user: Derek2277,
+Login blocked
+Email: derek2277@yahoo.com
+Message: 2025-03-25 05:02:00 PM Traffic from 170.245.31.79 for app version 9.7.29.5391,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 13:26:00,000 WARNING [security-module] Unauthorized access by user: Evan5878,
+Login blocked
+Email: evan5878@yahoo.com
+Message: 2025-03-26 01:26:00 PM Traffic from 205.224.249.175 for app version 10.4.30.6030,
+Request flagged by intrusion detection system.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-23 02:49:00,000 WARNING [security-module] Unauthorized access by user: Brittany7190,
+Login blocked
+Email: brittany7190@hotmail.com
+Message: 2025-03-23 02:49:00 AM Traffic from 223.163.100.169 for app version 8.1.90.2261,
+User attempted to bypass authentication.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 23:59:00,000 WARNING [security-module] Unauthorized access by user: Mary4421,
+Login blocked
+Email: mary4421@gmail.com
+Message: 2025-03-21 11:59:00 PM Traffic from 141.1.229.28 for app version 5.5.84.9588,
+Multiple failed password attempts recorded.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 16:00:00,000 WARNING [security-module] Unauthorized access by user: Lori4447,
+Login blocked
+Email: lori4447@hotmail.com
+Message: 2025-03-24 04:00:00 PM Traffic from 183.68.65.123 for app version 9.7.44.2550,
+Login endpoint accessed without credentials.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 12:37:00,000 WARNING [security-module] Unauthorized access by user: David2725,
+Login blocked
+Email: david2725@hotmail.com
+Message: 2025-03-23 12:37:00 PM Traffic from 164.91.175.68 for app version 1.0.10.4833,
+Suspicious payload detected in login request.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 15:35:00,000 WARNING [security-module] Unauthorized access by user: Leslie9232,
+Login blocked
+Email: leslie9232@gmail.com
+Message: 2025-03-23 03:35:00 PM Traffic from 46.127.78.179 for app version 2.1.62.5842,
+Multiple failed password attempts recorded.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 12:32:00,000 WARNING [security-module] Unauthorized access by user: Troy9883,
+Login blocked
+Email: troy9883@gmail.com
+Message: 2025-03-23 12:32:00 PM Traffic from 123.216.128.59 for app version 9.7.48.8766,
+API key missing in the request. Request dropped.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 13:52:00,000 WARNING [security-module] Unauthorized access by user: David1810,
+Login blocked
+Email: david1810@gmail.com
+Message: 2025-03-22 01:52:00 PM Traffic from 66.5.229.242 for app version 8.9.31.5095,
+Authentication service returned status: ACCESS_DENIED.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 09:28:00,000 WARNING [security-module] Unauthorized access by user: Matthew5645,
+Login blocked
+Email: matthew5645@yahoo.com
+Message: 2025-03-20 09:28:00 AM Traffic from 175.81.28.212 for app version 2.6.44.7820,
+Request flagged by intrusion detection system.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 08:48:00,000 WARNING [security-module] Unauthorized access by user: Annette8486,
+Login blocked
+Email: annette8486@yahoo.com
+Message: 2025-03-24 08:48:00 AM Traffic from 110.122.201.117 for app version 3.6.21.4785,
+The app server has completed the request.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-25 03:58:00,000 WARNING [security-module] Unauthorized access by user: Pam2861,
+Login blocked
+Email: pam2861@hotmail.com
+Message: 2025-03-25 03:58:00 AM Traffic from 168.162.230.185 for app version 6.4.77.3128,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 23:04:00,000 WARNING [security-module] Unauthorized access by user: Brianna5790,
+Login blocked
+Email: brianna5790@yahoo.com
+Message: 2025-03-25 11:04:00 PM Traffic from 11.61.157.148 for app version 5.3.11.8516,
+Invalid session token detected. Request denied.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 15:39:00,000 WARNING [security-module] Unauthorized access by user: Gina3952,
+Login blocked
+Email: gina3952@gmail.com
+Message: 2025-03-23 03:39:00 PM Traffic from 205.239.177.77 for app version 5.8.14.1055,
+Login endpoint accessed without credentials.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 02:57:00,000 WARNING [security-module] Unauthorized access by user: Andrew3934,
+Login blocked
+Email: andrew3934@hotmail.com
+Message: 2025-03-26 02:57:00 AM Traffic from 59.68.190.115 for app version 6.5.30.6078,
+Login endpoint accessed without credentials.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-20 14:57:00,000 WARNING [security-module] Unauthorized access by user: Patrick7201,
+Login blocked
+Email: patrick7201@yahoo.com
+Message: 2025-03-20 02:57:00 PM Traffic from 143.22.157.63 for app version 5.4.50.5413,
+Invalid session token detected. Request denied.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 00:07:00,000 WARNING [security-module] Unauthorized access by user: Joshua3170,
+Login blocked
+Email: joshua3170@yahoo.com
+Message: 2025-03-20 12:07:00 AM Traffic from 165.57.78.238 for app version 4.8.1.9836,
+API key missing in the request. Request dropped.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-23 06:41:00,000 WARNING [security-module] Unauthorized access by user: Brian3824,
+Login blocked
+Email: brian3824@gmail.com
+Message: 2025-03-23 06:41:00 AM Traffic from 106.39.56.237 for app version 3.9.63.1614,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 07:28:00,000 WARNING [security-module] Unauthorized access by user: Julie4909,
+Login blocked
+Email: julie4909@yahoo.com
+Message: 2025-03-26 07:28:00 AM Traffic from 194.228.87.85 for app version 6.1.27.4614,
+API key missing in the request. Request dropped.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 20:53:00,000 WARNING [security-module] Unauthorized access by user: Diana8815,
+Login blocked
+Email: diana8815@yahoo.com
+Message: 2025-03-25 08:53:00 PM Traffic from 214.159.182.134 for app version 5.7.38.4156,
+Request flagged by intrusion detection system.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 06:07:00,000 WARNING [security-module] Unauthorized access by user: Dillon8835,
+Login blocked
+Email: dillon8835@yahoo.com
+Message: 2025-03-25 06:07:00 AM Traffic from 162.124.101.144 for app version 3.8.29.8052,
+User attempted to bypass authentication.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-23 23:06:00,000 WARNING [security-module] Unauthorized access by user: Christopher6029,
+Login blocked
+Email: christopher6029@hotmail.com
+Message: 2025-03-23 11:06:00 PM Traffic from 198.224.35.71 for app version 8.2.90.8085,
+User attempted to bypass authentication.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 09:37:00,000 WARNING [security-module] Unauthorized access by user: Megan1834,
+Login blocked
+Email: megan1834@hotmail.com
+Message: 2025-03-22 09:37:00 AM Traffic from 155.205.208.171 for app version 5.9.67.1822,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-24 16:39:00,000 WARNING [security-module] Unauthorized access by user: Mark3853,
+Login blocked
+Email: mark3853@hotmail.com
+Message: 2025-03-24 04:39:00 PM Traffic from 33.29.28.77 for app version 1.0.77.5129,
+API key missing in the request. Request dropped.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 02:29:00,000 WARNING [security-module] Unauthorized access by user: Laura6445,
+Login blocked
+Email: laura6445@hotmail.com
+Message: 2025-03-23 02:29:00 AM Traffic from 132.179.252.72 for app version 1.4.51.2681,
+User attempted to bypass authentication.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 18:19:00,000 WARNING [security-module] Unauthorized access by user: Stephanie4368,
+Login blocked
+Email: stephanie4368@gmail.com
+Message: 2025-03-23 06:19:00 PM Traffic from 217.243.209.61 for app version 4.2.78.8264,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-26 02:04:00,000 WARNING [security-module] Unauthorized access by user: Brenda3424,
+Login blocked
+Email: brenda3424@yahoo.com
+Message: 2025-03-26 02:04:00 AM Traffic from 212.180.141.214 for app version 10.1.95.5627,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-21 13:18:00,000 WARNING [security-module] Unauthorized access by user: Debra5975,
+Login blocked
+Email: debra5975@yahoo.com
+Message: 2025-03-21 01:18:00 PM Traffic from 47.55.161.193 for app version 9.3.84.9196,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-26 12:22:00,000 WARNING [security-module] Unauthorized access by user: Lori6494,
+Login blocked
+Email: lori6494@yahoo.com
+Message: 2025-03-26 12:22:00 PM Traffic from 218.120.115.47 for app version 2.5.64.1238,
+Invalid session token detected. Request denied.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 21:54:00,000 WARNING [security-module] Unauthorized access by user: Angela5530,
+Login blocked
+Email: angela5530@gmail.com
+Message: 2025-03-22 09:54:00 PM Traffic from 110.108.52.0 for app version 3.3.21.6720,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 12:33:00,000 WARNING [security-module] Unauthorized access by user: Heather4847,
+Login blocked
+Email: heather4847@gmail.com
+Message: 2025-03-22 12:33:00 PM Traffic from 58.142.35.214 for app version 10.0.66.4193,
+Suspicious payload detected in login request.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-21 23:33:00,000 WARNING [security-module] Unauthorized access by user: Michelle7466,
+Login blocked
+Email: michelle7466@hotmail.com
+Message: 2025-03-21 11:33:00 PM Traffic from 12.103.12.201 for app version 8.7.27.8330,
+Suspicious payload detected in login request.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 10:30:00,000 WARNING [security-module] Unauthorized access by user: Joy4720,
+Login blocked
+Email: joy4720@gmail.com
+Message: 2025-03-23 10:30:00 AM Traffic from 211.175.164.140 for app version 2.8.94.8580,
+User attempted to bypass authentication.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 02:23:00,000 WARNING [security-module] Unauthorized access by user: Susan6178,
+Login blocked
+Email: susan6178@hotmail.com
+Message: 2025-03-23 02:23:00 AM Traffic from 73.217.4.48 for app version 2.1.99.3466,
+Login endpoint accessed without credentials.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 01:08:00,000 WARNING [security-module] Unauthorized access by user: Jeff1962,
+Login blocked
+Email: jeff1962@yahoo.com
+Message: 2025-03-22 01:08:00 AM Traffic from 196.83.243.251 for app version 8.2.68.8876,
+API key missing in the request. Request dropped.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 03:00:00,000 WARNING [security-module] Unauthorized access by user: Mike4227,
+Login blocked
+Email: mike4227@gmail.com
+Message: 2025-03-22 03:00:00 AM Traffic from 188.108.34.162 for app version 10.0.44.6726,
+Multiple failed password attempts recorded.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 10:17:00,000 WARNING [security-module] Unauthorized access by user: David6503,
+Login blocked
+Email: david6503@yahoo.com
+Message: 2025-03-26 10:17:00 AM Traffic from 67.28.140.241 for app version 6.1.39.7635,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 14:53:00,000 WARNING [security-module] Unauthorized access by user: Kelly6743,
+Login blocked
+Email: kelly6743@hotmail.com
+Message: 2025-03-23 02:53:00 PM Traffic from 21.110.169.100 for app version 7.1.96.2971,
+The app server has completed the request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 10:23:00,000 WARNING [security-module] Unauthorized access by user: Daniel7011,
+Login blocked
+Email: daniel7011@yahoo.com
+Message: 2025-03-26 10:23:00 AM Traffic from 155.67.130.53 for app version 4.0.11.2690,
+Rate limit exceeded for user token.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 07:28:00,000 WARNING [security-module] Unauthorized access by user: Karen6275,
+Login blocked
+Email: karen6275@hotmail.com
+Message: 2025-03-23 07:28:00 AM Traffic from 211.236.228.17 for app version 8.0.98.4862,
+Rate limit exceeded for user token.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 16:59:00,000 WARNING [security-module] Unauthorized access by user: Robert6349,
+Login blocked
+Email: robert6349@yahoo.com
+Message: 2025-03-24 04:59:00 PM Traffic from 199.232.85.148 for app version 1.1.10.1640,
+Request flagged by intrusion detection system.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 14:20:00,000 WARNING [security-module] Unauthorized access by user: Natalie5951,
+Login blocked
+Email: natalie5951@hotmail.com
+Message: 2025-03-20 02:20:00 PM Traffic from 196.0.6.26 for app version 10.4.77.4653,
+Suspicious payload detected in login request.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-22 10:39:00,000 WARNING [security-module] Unauthorized access by user: Jennifer4391,
+Login blocked
+Email: jennifer4391@gmail.com
+Message: 2025-03-22 10:39:00 AM Traffic from 124.211.229.50 for app version 3.9.58.7176,
+API key missing in the request. Request dropped.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 06:33:00,000 WARNING [security-module] Unauthorized access by user: Nicole6372,
+Login blocked
+Email: nicole6372@hotmail.com
+Message: 2025-03-24 06:33:00 AM Traffic from 80.90.206.244 for app version 6.4.82.8117,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 04:46:00,000 WARNING [security-module] Unauthorized access by user: Linda7941,
+Login blocked
+Email: linda7941@yahoo.com
+Message: 2025-03-20 04:46:00 AM Traffic from 153.29.205.102 for app version 3.5.10.3161,
+Login endpoint accessed without credentials.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 12:01:00,000 WARNING [security-module] Unauthorized access by user: Heather6095,
+Login blocked
+Email: heather6095@hotmail.com
+Message: 2025-03-25 12:01:00 PM Traffic from 172.51.44.63 for app version 10.0.57.8229,
+Suspicious payload detected in login request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 17:02:00,000 WARNING [security-module] Unauthorized access by user: Robert7355,
+Login blocked
+Email: robert7355@yahoo.com
+Message: 2025-03-25 05:02:00 PM Traffic from 177.185.115.108 for app version 2.9.78.4895,
+Multiple failed password attempts recorded.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-26 05:24:00,000 WARNING [security-module] Unauthorized access by user: Michelle6360,
+Login blocked
+Email: michelle6360@yahoo.com
+Message: 2025-03-26 05:24:00 AM Traffic from 209.10.211.26 for app version 9.3.6.1343,
+Rate limit exceeded for user token.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 15:28:00,000 WARNING [security-module] Unauthorized access by user: Jason4591,
+Login blocked
+Email: jason4591@gmail.com
+Message: 2025-03-21 03:28:00 PM Traffic from 46.72.177.207 for app version 4.9.54.9240,
+API key missing in the request. Request dropped.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 13:45:00,000 WARNING [security-module] Unauthorized access by user: Sarah4954,
+Login blocked
+Email: sarah4954@gmail.com
+Message: 2025-03-20 01:45:00 PM Traffic from 217.110.7.211 for app version 2.9.1.4905,
+Authentication service returned status: ACCESS_DENIED.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 11:18:00,000 WARNING [security-module] Unauthorized access by user: Linda4145,
+Login blocked
+Email: linda4145@yahoo.com
+Message: 2025-03-20 11:18:00 AM Traffic from 221.99.129.24 for app version 4.2.28.6508,
+User attempted to bypass authentication.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-20 22:24:00,000 WARNING [security-module] Unauthorized access by user: Jason7048,
+Login blocked
+Email: jason7048@hotmail.com
+Message: 2025-03-20 10:24:00 PM Traffic from 55.110.217.196 for app version 10.1.41.7360,
+Invalid session token detected. Request denied.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-20 14:14:00,000 WARNING [security-module] Unauthorized access by user: Judith2225,
+Login blocked
+Email: judith2225@yahoo.com
+Message: 2025-03-20 02:14:00 PM Traffic from 91.217.53.119 for app version 1.4.39.1591,
+API key missing in the request. Request dropped.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 00:19:00,000 WARNING [security-module] Unauthorized access by user: Paige5661,
+Login blocked
+Email: paige5661@hotmail.com
+Message: 2025-03-24 12:19:00 AM Traffic from 146.196.46.56 for app version 3.7.85.7979,
+Login endpoint accessed without credentials.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 18:36:00,000 WARNING [security-module] Unauthorized access by user: Christopher2531,
+Login blocked
+Email: christopher2531@gmail.com
+Message: 2025-03-22 06:36:00 PM Traffic from 169.144.144.188 for app version 2.6.21.9158,
+Authentication service returned status: ACCESS_DENIED.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-26 03:15:00,000 WARNING [security-module] Unauthorized access by user: Destiny9600,
+Login blocked
+Email: destiny9600@hotmail.com
+Message: 2025-03-26 03:15:00 AM Traffic from 67.0.91.40 for app version 3.0.92.2536,
+The app server has completed the request.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 08:31:00,000 WARNING [security-module] Unauthorized access by user: David6378,
+Login blocked
+Email: david6378@yahoo.com
+Message: 2025-03-22 08:31:00 AM Traffic from 222.29.148.82 for app version 10.0.11.9262,
+Suspicious payload detected in login request.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 22:58:00,000 WARNING [security-module] Unauthorized access by user: Curtis6426,
+Login blocked
+Email: curtis6426@hotmail.com
+Message: 2025-03-22 10:58:00 PM Traffic from 204.25.59.195 for app version 7.1.95.7429,
+The app server has completed the request.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 06:51:00,000 WARNING [security-module] Unauthorized access by user: Lindsay5908,
+Login blocked
+Email: lindsay5908@gmail.com
+Message: 2025-03-26 06:51:00 AM Traffic from 48.233.118.152 for app version 7.9.41.9106,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 14:46:00,000 WARNING [security-module] Unauthorized access by user: Monica3092,
+Login blocked
+Email: monica3092@hotmail.com
+Message: 2025-03-25 02:46:00 PM Traffic from 193.92.194.186 for app version 2.0.27.5098,
+Login endpoint accessed without credentials.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 21:42:00,000 WARNING [security-module] Unauthorized access by user: Rhonda4656,
+Login blocked
+Email: rhonda4656@hotmail.com
+Message: 2025-03-25 09:42:00 PM Traffic from 218.23.212.237 for app version 4.8.38.8097,
+Rate limit exceeded for user token.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 10:36:00,000 WARNING [security-module] Unauthorized access by user: Daniel7855,
+Login blocked
+Email: daniel7855@gmail.com
+Message: 2025-03-25 10:36:00 AM Traffic from 212.252.198.35 for app version 4.3.87.1072,
+Login endpoint accessed without credentials.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 21:21:00,000 WARNING [security-module] Unauthorized access by user: Alejandro6038,
+Login blocked
+Email: alejandro6038@gmail.com
+Message: 2025-03-21 09:21:00 PM Traffic from 144.160.67.85 for app version 4.0.72.8129,
+User attempted to bypass authentication.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 10:12:00,000 WARNING [security-module] Unauthorized access by user: Jonathan3115,
+Login blocked
+Email: jonathan3115@yahoo.com
+Message: 2025-03-22 10:12:00 AM Traffic from 110.252.122.139 for app version 5.1.17.1968,
+Request flagged by intrusion detection system.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 18:14:00,000 WARNING [security-module] Unauthorized access by user: Rachel9698,
+Login blocked
+Email: rachel9698@yahoo.com
+Message: 2025-03-20 06:14:00 PM Traffic from 154.216.208.241 for app version 2.1.93.1768,
+Invalid session token detected. Request denied.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 11:19:00,000 WARNING [security-module] Unauthorized access by user: Daniel1498,
+Login blocked
+Email: daniel1498@yahoo.com
+Message: 2025-03-23 11:19:00 AM Traffic from 87.74.105.128 for app version 8.1.25.9342,
+Suspicious payload detected in login request.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 21:01:00,000 WARNING [security-module] Unauthorized access by user: Lisa1131,
+Login blocked
+Email: lisa1131@hotmail.com
+Message: 2025-03-21 09:01:00 PM Traffic from 204.40.145.138 for app version 10.7.34.5763,
+Authentication service returned status: ACCESS_DENIED.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 19:25:00,000 WARNING [security-module] Unauthorized access by user: Vincent7444,
+Login blocked
+Email: vincent7444@gmail.com
+Message: 2025-03-25 07:25:00 PM Traffic from 54.216.32.33 for app version 6.1.22.2955,
+Suspicious payload detected in login request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 18:34:00,000 WARNING [security-module] Unauthorized access by user: James1165,
+Login blocked
+Email: james1165@gmail.com
+Message: 2025-03-21 06:34:00 PM Traffic from 130.237.226.109 for app version 10.0.39.4559,
+Invalid session token detected. Request denied.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 02:52:00,000 WARNING [security-module] Unauthorized access by user: Michelle8951,
+Login blocked
+Email: michelle8951@yahoo.com
+Message: 2025-03-25 02:52:00 AM Traffic from 164.95.23.196 for app version 4.4.87.8153,
+Multiple failed password attempts recorded.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 11:52:00,000 WARNING [security-module] Unauthorized access by user: Pedro9900,
+Login blocked
+Email: pedro9900@hotmail.com
+Message: 2025-03-22 11:52:00 AM Traffic from 137.224.73.193 for app version 7.1.54.7423,
+Login endpoint accessed without credentials.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 03:23:00,000 WARNING [security-module] Unauthorized access by user: Courtney4971,
+Login blocked
+Email: courtney4971@gmail.com
+Message: 2025-03-24 03:23:00 AM Traffic from 84.81.255.75 for app version 1.8.87.2120,
+The app server has completed the request.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 01:29:00,000 WARNING [security-module] Unauthorized access by user: Miranda4291,
+Login blocked
+Email: miranda4291@yahoo.com
+Message: 2025-03-24 01:29:00 AM Traffic from 221.243.246.54 for app version 4.5.56.2785,
+The app server has completed the request.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 22:11:00,000 WARNING [security-module] Unauthorized access by user: Tiffany6016,
+Login blocked
+Email: tiffany6016@gmail.com
+Message: 2025-03-24 10:11:00 PM Traffic from 152.143.43.54 for app version 5.6.78.5561,
+User attempted to bypass authentication.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 10:10:00,000 WARNING [security-module] Unauthorized access by user: Tina1272,
+Login blocked
+Email: tina1272@hotmail.com
+Message: 2025-03-21 10:10:00 AM Traffic from 172.115.135.99 for app version 2.2.6.6201,
+Authentication service returned status: ACCESS_DENIED.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 07:39:00,000 WARNING [security-module] Unauthorized access by user: Ashley8143,
+Login blocked
+Email: ashley8143@hotmail.com
+Message: 2025-03-25 07:39:00 AM Traffic from 213.143.243.242 for app version 4.6.8.6850,
+Suspicious payload detected in login request.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 05:06:00,000 WARNING [security-module] Unauthorized access by user: Justin7595,
+Login blocked
+Email: justin7595@hotmail.com
+Message: 2025-03-25 05:06:00 AM Traffic from 207.60.217.2 for app version 10.4.77.2806,
+API key missing in the request. Request dropped.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 06:55:00,000 WARNING [security-module] Unauthorized access by user: Jonathan9832,
+Login blocked
+Email: jonathan9832@hotmail.com
+Message: 2025-03-26 06:55:00 AM Traffic from 217.243.179.119 for app version 7.4.18.2322,
+Rate limit exceeded for user token.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 22:38:00,000 WARNING [security-module] Unauthorized access by user: Ryan1044,
+Login blocked
+Email: ryan1044@yahoo.com
+Message: 2025-03-24 10:38:00 PM Traffic from 214.140.148.154 for app version 8.3.68.5655,
+Login endpoint accessed without credentials.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 20:39:00,000 WARNING [security-module] Unauthorized access by user: Alexandra6038,
+Login blocked
+Email: alexandra6038@yahoo.com
+Message: 2025-03-25 08:39:00 PM Traffic from 83.174.12.198 for app version 2.6.95.6934,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-26 22:07:00,000 WARNING [security-module] Unauthorized access by user: Connor7268,
+Login blocked
+Email: connor7268@hotmail.com
+Message: 2025-03-26 10:07:00 PM Traffic from 187.180.244.94 for app version 4.5.2.1960,
+Invalid session token detected. Request denied.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 17:56:00,000 WARNING [security-module] Unauthorized access by user: Jennifer2806,
+Login blocked
+Email: jennifer2806@hotmail.com
+Message: 2025-03-24 05:56:00 PM Traffic from 165.0.71.76 for app version 7.5.81.4598,
+Request flagged by intrusion detection system.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 22:59:00,000 WARNING [security-module] Unauthorized access by user: Sheri7053,
+Login blocked
+Email: sheri7053@gmail.com
+Message: 2025-03-23 10:59:00 PM Traffic from 90.179.172.142 for app version 3.5.44.2377,
+Rate limit exceeded for user token.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-23 02:53:00,000 WARNING [security-module] Unauthorized access by user: Daniel5615,
+Login blocked
+Email: daniel5615@yahoo.com
+Message: 2025-03-23 02:53:00 AM Traffic from 218.176.252.120 for app version 3.6.75.7490,
+Login endpoint accessed without credentials.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-22 14:47:00,000 WARNING [security-module] Unauthorized access by user: Tanya5408,
+Login blocked
+Email: tanya5408@yahoo.com
+Message: 2025-03-22 02:47:00 PM Traffic from 149.186.107.144 for app version 8.2.37.3268,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-22 17:16:00,000 WARNING [security-module] Unauthorized access by user: Christopher6927,
+Login blocked
+Email: christopher6927@yahoo.com
+Message: 2025-03-22 05:16:00 PM Traffic from 201.32.112.248 for app version 6.1.89.8393,
+The app server has completed the request.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 13:03:00,000 WARNING [security-module] Unauthorized access by user: Nicole4544,
+Login blocked
+Email: nicole4544@yahoo.com
+Message: 2025-03-25 01:03:00 PM Traffic from 211.88.139.219 for app version 4.5.12.2743,
+Rate limit exceeded for user token.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-23 11:19:00,000 WARNING [security-module] Unauthorized access by user: Jerry7891,
+Login blocked
+Email: jerry7891@yahoo.com
+Message: 2025-03-23 11:19:00 AM Traffic from 180.35.230.51 for app version 6.9.70.4038,
+Invalid session token detected. Request denied.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-24 14:09:00,000 WARNING [security-module] Unauthorized access by user: Laura5458,
+Login blocked
+Email: laura5458@gmail.com
+Message: 2025-03-24 02:09:00 PM Traffic from 143.75.160.62 for app version 2.8.76.5746,
+Suspicious payload detected in login request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 09:10:00,000 WARNING [security-module] Unauthorized access by user: Michael7795,
+Login blocked
+Email: michael7795@hotmail.com
+Message: 2025-03-25 09:10:00 AM Traffic from 222.112.210.131 for app version 4.5.36.5438,
+Request flagged by intrusion detection system.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 11:20:00,000 WARNING [security-module] Unauthorized access by user: Dana2611,
+Login blocked
+Email: dana2611@yahoo.com
+Message: 2025-03-22 11:20:00 AM Traffic from 1.110.198.10 for app version 5.6.52.6551,
+Multiple failed password attempts recorded.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 18:56:00,000 WARNING [security-module] Unauthorized access by user: Jeremy4988,
+Login blocked
+Email: jeremy4988@gmail.com
+Message: 2025-03-20 06:56:00 PM Traffic from 111.125.207.123 for app version 3.7.25.6900,
+Rate limit exceeded for user token.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 02:05:00,000 WARNING [security-module] Unauthorized access by user: Kevin7028,
+Login blocked
+Email: kevin7028@hotmail.com
+Message: 2025-03-20 02:05:00 AM Traffic from 174.189.231.212 for app version 8.4.85.6096,
+Request flagged by intrusion detection system.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 04:04:00,000 WARNING [security-module] Unauthorized access by user: Christopher5861,
+Login blocked
+Email: christopher5861@gmail.com
+Message: 2025-03-20 04:04:00 AM Traffic from 113.95.197.244 for app version 3.0.57.8266,
+Invalid session token detected. Request denied.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-25 09:07:00,000 WARNING [security-module] Unauthorized access by user: Megan2348,
+Login blocked
+Email: megan2348@hotmail.com
+Message: 2025-03-25 09:07:00 AM Traffic from 192.10.169.223 for app version 1.7.87.8157,
+Login endpoint accessed without credentials.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 17:36:00,000 WARNING [security-module] Unauthorized access by user: Janet8833,
+Login blocked
+Email: janet8833@yahoo.com
+Message: 2025-03-26 05:36:00 PM Traffic from 173.125.227.100 for app version 8.1.83.6791,
+User attempted to bypass authentication.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-25 15:33:00,000 WARNING [security-module] Unauthorized access by user: Nathaniel8751,
+Login blocked
+Email: nathaniel8751@yahoo.com
+Message: 2025-03-25 03:33:00 PM Traffic from 141.231.1.118 for app version 8.5.73.6064,
+Invalid session token detected. Request denied.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 20:45:00,000 WARNING [security-module] Unauthorized access by user: Corey5034,
+Login blocked
+Email: corey5034@yahoo.com
+Message: 2025-03-20 08:45:00 PM Traffic from 134.25.248.27 for app version 7.7.9.8624,
+The app server has completed the request.
+Location: Paris, France
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 14:42:00,000 WARNING [security-module] Unauthorized access by user: Emily7736,
+Login blocked
+Email: emily7736@hotmail.com
+Message: 2025-03-21 02:42:00 PM Traffic from 76.31.44.138 for app version 9.5.22.6497,
+API key missing in the request. Request dropped.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 11:04:00,000 WARNING [security-module] Unauthorized access by user: Brandi3775,
+Login blocked
+Email: brandi3775@yahoo.com
+Message: 2025-03-24 11:04:00 AM Traffic from 64.124.128.232 for app version 2.5.21.8464,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-23 18:41:00,000 WARNING [security-module] Unauthorized access by user: Heather1612,
+Login blocked
+Email: heather1612@yahoo.com
+Message: 2025-03-23 06:41:00 PM Traffic from 147.232.188.215 for app version 2.4.40.5495,
+API key missing in the request. Request dropped.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-22 08:38:00,000 WARNING [security-module] Unauthorized access by user: Jacqueline7434,
+Login blocked
+Email: jacqueline7434@yahoo.com
+Message: 2025-03-22 08:38:00 AM Traffic from 32.243.88.94 for app version 8.8.3.5415,
+User attempted to bypass authentication.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 09:07:00,000 WARNING [security-module] Unauthorized access by user: Beth7057,
+Login blocked
+Email: beth7057@gmail.com
+Message: 2025-03-23 09:07:00 AM Traffic from 113.236.219.210 for app version 9.8.49.5728,
+Rate limit exceeded for user token.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 13:33:00,000 WARNING [security-module] Unauthorized access by user: Patricia5740,
+Login blocked
+Email: patricia5740@hotmail.com
+Message: 2025-03-22 01:33:00 PM Traffic from 192.126.66.198 for app version 8.0.31.1295,
+Invalid session token detected. Request denied.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-24 19:42:00,000 WARNING [security-module] Unauthorized access by user: Katrina3340,
+Login blocked
+Email: katrina3340@gmail.com
+Message: 2025-03-24 07:42:00 PM Traffic from 189.250.154.34 for app version 5.0.14.2607,
+Rate limit exceeded for user token.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-21 14:17:00,000 WARNING [security-module] Unauthorized access by user: Jeffrey8020,
+Login blocked
+Email: jeffrey8020@gmail.com
+Message: 2025-03-21 02:17:00 PM Traffic from 198.121.35.14 for app version 5.5.34.7859,
+User attempted to bypass authentication.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-23 13:06:00,000 WARNING [security-module] Unauthorized access by user: Christopher8904,
+Login blocked
+Email: christopher8904@yahoo.com
+Message: 2025-03-23 01:06:00 PM Traffic from 199.158.135.40 for app version 7.3.91.3937,
+Multiple failed password attempts recorded.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-21 02:37:00,000 WARNING [security-module] Unauthorized access by user: Tyler3982,
+Login blocked
+Email: tyler3982@yahoo.com
+Message: 2025-03-21 02:37:00 AM Traffic from 185.228.64.225 for app version 3.4.37.5538,
+Invalid session token detected. Request denied.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 01:11:00,000 WARNING [security-module] Unauthorized access by user: Christopher4225,
+Login blocked
+Email: christopher4225@gmail.com
+Message: 2025-03-20 01:11:00 AM Traffic from 7.101.128.70 for app version 2.9.89.6209,
+Suspicious payload detected in login request.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 20:34:00,000 WARNING [security-module] Unauthorized access by user: Scott8965,
+Login blocked
+Email: scott8965@hotmail.com
+Message: 2025-03-26 08:34:00 PM Traffic from 160.92.199.10 for app version 7.1.22.5210,
+Login endpoint accessed without credentials.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-23 13:42:00,000 WARNING [security-module] Unauthorized access by user: Sara3947,
+Login blocked
+Email: sara3947@gmail.com
+Message: 2025-03-23 01:42:00 PM Traffic from 29.40.121.69 for app version 1.0.1.4202,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 13:34:00,000 WARNING [security-module] Unauthorized access by user: Megan9112,
+Login blocked
+Email: megan9112@hotmail.com
+Message: 2025-03-20 01:34:00 PM Traffic from 149.121.112.118 for app version 2.4.26.9264,
+Request flagged by intrusion detection system.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-24 20:30:00,000 WARNING [security-module] Unauthorized access by user: Eric3618,
+Login blocked
+Email: eric3618@yahoo.com
+Message: 2025-03-24 08:30:00 PM Traffic from 151.100.208.32 for app version 4.8.89.3720,
+Multiple failed password attempts recorded.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 14:40:00,000 WARNING [security-module] Unauthorized access by user: Erik9684,
+Login blocked
+Email: erik9684@gmail.com
+Message: 2025-03-20 02:40:00 PM Traffic from 209.50.30.41 for app version 10.9.55.9074,
+API key missing in the request. Request dropped.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-25 20:42:00,000 WARNING [security-module] Unauthorized access by user: Molly9320,
+Login blocked
+Email: molly9320@gmail.com
+Message: 2025-03-25 08:42:00 PM Traffic from 145.143.203.99 for app version 2.2.74.3773,
+Request flagged by intrusion detection system.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-24 16:22:00,000 WARNING [security-module] Unauthorized access by user: Samantha6908,
+Login blocked
+Email: samantha6908@hotmail.com
+Message: 2025-03-24 04:22:00 PM Traffic from 196.212.84.178 for app version 10.6.85.7834,
+Rate limit exceeded for user token.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 15:15:00,000 WARNING [security-module] Unauthorized access by user: Philip7830,
+Login blocked
+Email: philip7830@hotmail.com
+Message: 2025-03-24 03:15:00 PM Traffic from 220.204.215.116 for app version 9.3.93.8545,
+Invalid session token detected. Request denied.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-26 17:45:00,000 WARNING [security-module] Unauthorized access by user: Ashley8799,
+Login blocked
+Email: ashley8799@yahoo.com
+Message: 2025-03-26 05:45:00 PM Traffic from 188.56.205.25 for app version 9.0.42.6517,
+Request flagged by intrusion detection system.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-26 12:51:00,000 WARNING [security-module] Unauthorized access by user: Keith5630,
+Login blocked
+Email: keith5630@gmail.com
+Message: 2025-03-26 12:51:00 PM Traffic from 185.66.114.117 for app version 10.8.10.2000,
+Invalid session token detected. Request denied.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 02:21:00,000 WARNING [security-module] Unauthorized access by user: Thomas5475,
+Login blocked
+Email: thomas5475@gmail.com
+Message: 2025-03-22 02:21:00 AM Traffic from 85.117.139.230 for app version 4.1.13.4113,
+The app server has completed the request.
+Location: Mumbai, India
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 21:57:00,000 WARNING [security-module] Unauthorized access by user: Rodney2383,
+Login blocked
+Email: rodney2383@yahoo.com
+Message: 2025-03-22 09:57:00 PM Traffic from 70.71.54.90 for app version 9.9.5.1309,
+API key missing in the request. Request dropped.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-20 23:00:00,000 WARNING [security-module] Unauthorized access by user: Melissa7961,
+Login blocked
+Email: melissa7961@yahoo.com
+Message: 2025-03-20 11:00:00 PM Traffic from 189.182.45.207 for app version 3.9.96.6755,
+Invalid session token detected. Request denied.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 09:12:00,000 WARNING [security-module] Unauthorized access by user: Jonathan2488,
+Login blocked
+Email: jonathan2488@yahoo.com
+Message: 2025-03-25 09:12:00 AM Traffic from 147.241.117.92 for app version 9.3.66.8584,
+API key missing in the request. Request dropped.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-24 06:18:00,000 WARNING [security-module] Unauthorized access by user: Barbara5095,
+Login blocked
+Email: barbara5095@yahoo.com
+Message: 2025-03-24 06:18:00 AM Traffic from 139.121.33.13 for app version 3.1.40.8963,
+Suspicious payload detected in login request.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-20 16:07:00,000 WARNING [security-module] Unauthorized access by user: Elizabeth7600,
+Login blocked
+Email: elizabeth7600@yahoo.com
+Message: 2025-03-20 04:07:00 PM Traffic from 75.166.119.254 for app version 4.6.59.3063,
+User attempted to bypass authentication.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-20 00:53:00,000 WARNING [security-module] Unauthorized access by user: David9249,
+Login blocked
+Email: david9249@yahoo.com
+Message: 2025-03-20 12:53:00 AM Traffic from 135.34.228.145 for app version 4.8.75.6994,
+The app server has completed the request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 23:17:00,000 WARNING [security-module] Unauthorized access by user: Adam2734,
+Login blocked
+Email: adam2734@gmail.com
+Message: 2025-03-25 11:17:00 PM Traffic from 202.23.7.77 for app version 4.2.50.7089,
+Login endpoint accessed without credentials.
+Location: Lisbon, Portugal
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-22 06:22:00,000 WARNING [security-module] Unauthorized access by user: Joseph3356,
+Login blocked
+Email: joseph3356@hotmail.com
+Message: 2025-03-22 06:22:00 AM Traffic from 135.176.98.221 for app version 4.7.79.7726,
+Rate limit exceeded for user token.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-23 03:21:00,000 WARNING [security-module] Unauthorized access by user: George5865,
+Login blocked
+Email: george5865@hotmail.com
+Message: 2025-03-23 03:21:00 AM Traffic from 218.10.233.50 for app version 7.5.31.4988,
+Login endpoint accessed without credentials.
+Location: Moscow, Russia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #10.
+
+25-03-21 13:22:00,000 WARNING [security-module] Unauthorized access by user: Stephanie7634,
+Login blocked
+Email: stephanie7634@gmail.com
+Message: 2025-03-21 01:22:00 PM Traffic from 70.16.4.93 for app version 5.3.22.1682,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-26 21:08:00,000 WARNING [security-module] Unauthorized access by user: Jenny1569,
+Login blocked
+Email: jenny1569@gmail.com
+Message: 2025-03-26 09:08:00 PM Traffic from 140.147.213.67 for app version 5.3.63.3210,
+The app server has completed the request.
+Location: Zurich, Switzerland
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-26 09:21:00,000 WARNING [security-module] Unauthorized access by user: William4424,
+Login blocked
+Email: william4424@hotmail.com
+Message: 2025-03-26 09:21:00 AM Traffic from 215.178.144.0 for app version 6.7.55.4734,
+Suspicious payload detected in login request.
+Location: Berlin, Germany
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-25 11:44:00,000 WARNING [security-module] Unauthorized access by user: Rachel9594,
+Login blocked
+Email: rachel9594@hotmail.com
+Message: 2025-03-25 11:44:00 AM Traffic from 205.84.30.40 for app version 10.2.92.1339,
+Authentication service returned status: ACCESS_DENIED.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-21 12:15:00,000 WARNING [security-module] Unauthorized access by user: Shawn2016,
+Login blocked
+Email: shawn2016@gmail.com
+Message: 2025-03-21 12:15:00 PM Traffic from 59.88.96.24 for app version 4.9.49.4457,
+Multiple failed password attempts recorded.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-25 23:52:00,000 WARNING [security-module] Unauthorized access by user: Ashley9859,
+Login blocked
+Email: ashley9859@yahoo.com
+Message: 2025-03-25 11:52:00 PM Traffic from 113.58.228.105 for app version 2.4.60.1829,
+Request flagged by intrusion detection system.
+Location: Osaka, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 12:25:00,000 WARNING [security-module] Unauthorized access by user: Gerald3251,
+Login blocked
+Email: gerald3251@gmail.com
+Message: 2025-03-25 12:25:00 PM Traffic from 174.164.29.42 for app version 3.9.46.8476,
+Request flagged by intrusion detection system.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 22:52:00,000 WARNING [security-module] Unauthorized access by user: Cheyenne4239,
+Login blocked
+Email: cheyenne4239@yahoo.com
+Message: 2025-03-20 10:52:00 PM Traffic from 207.86.66.250 for app version 10.0.11.7780,
+Rate limit exceeded for user token.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-23 20:09:00,000 WARNING [security-module] Unauthorized access by user: Kelly4840,
+Login blocked
+Email: kelly4840@yahoo.com
+Message: 2025-03-23 08:09:00 PM Traffic from 183.47.156.240 for app version 6.7.72.7424,
+Suspicious payload detected in login request.
+Location: Seoul, SouthKorea
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-24 10:54:00,000 WARNING [security-module] Unauthorized access by user: Jennifer2161,
+Login blocked
+Email: jennifer2161@gmail.com
+Message: 2025-03-24 10:54:00 AM Traffic from 62.119.91.157 for app version 8.7.3.8182,
+Login endpoint accessed without credentials.
+Location: Tokyo, Japan
+Action: Account Locked
+Reason: Too many login attempts! Attempt #6.
+
+25-03-22 13:55:00,000 WARNING [security-module] Unauthorized access by user: Alisha6060,
+Login blocked
+Email: alisha6060@yahoo.com
+Message: 2025-03-22 01:55:00 PM Traffic from 165.48.67.126 for app version 10.8.22.2500,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #8.
+
+25-03-24 10:41:00,000 WARNING [security-module] Unauthorized access by user: Tonya3844,
+Login blocked
+Email: tonya3844@hotmail.com
+Message: 2025-03-24 10:41:00 AM Traffic from 206.66.201.58 for app version 1.0.10.2618,
+Multiple failed password attempts recorded.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-20 19:42:00,000 WARNING [security-module] Unauthorized access by user: Kathleen4358,
+Login blocked
+Email: kathleen4358@hotmail.com
+Message: 2025-03-20 07:42:00 PM Traffic from 68.79.34.61 for app version 7.5.36.1904,
+Authentication service returned status: ACCESS_DENIED.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
+
+25-03-26 15:45:00,000 WARNING [security-module] Unauthorized access by user: Jacqueline8807,
+Login blocked
+Email: jacqueline8807@gmail.com
+Message: 2025-03-26 03:45:00 PM Traffic from 178.205.180.193 for app version 9.8.96.6347,
+Invalid session token detected. Request denied.
+Location: Toronto, Canada
+Action: Account Locked
+Reason: Too many login attempts! Attempt #7.
+
+25-03-22 22:51:00,000 WARNING [security-module] Unauthorized access by user: Cody1321,
+Login blocked
+Email: cody1321@hotmail.com
+Message: 2025-03-22 10:51:00 PM Traffic from 91.243.34.201 for app version 5.0.85.1551,
+User attempted to bypass authentication.
+Location: Vienna, Austria
+Action: Account Locked
+Reason: Too many login attempts! Attempt #5.
+
+25-03-25 08:56:00,000 WARNING [security-module] Unauthorized access by user: Jonathan6749,
+Login blocked
+Email: jonathan6749@hotmail.com
+Message: 2025-03-25 08:56:00 AM Traffic from 199.9.172.140 for app version 3.3.99.4038,
+Suspicious payload detected in login request.
+Location: Sydney, Australia
+Action: Account Locked
+Reason: Too many login attempts! Attempt #9.
